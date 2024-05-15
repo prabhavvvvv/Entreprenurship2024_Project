@@ -1,0 +1,22 @@
+body {
+    background-color: green;
+    color: antiquewhite;
+}
+
+.volunteering_places {
+    text-align: center;
+    color: antiquewhite;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#logo1 {
+    position: absolute;top:30px;right:120px;
+    margin-left: auto;
+    width: 150px;
+}
+
+#volunteeringpic {
+    position: absolute; bottom: 50px;right:10px;
+    width: 500px;
+}
